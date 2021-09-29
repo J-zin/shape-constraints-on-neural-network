@@ -2,7 +2,9 @@
 
 This repo containts the shape constraints methods based on *ordinary differential equation*, which is first proposed in [UMNN (Unconstrainted Monontonic Neural Network)](https://arxiv.org/abs/1908.05164). In UMNN, the authors conduct monotonic constraint on neural network by parameterzing the function as
 
+<div align=center>
 <img src="asset/umnn.png" width="30%">
+</div>
 
 Here, we extend this framework into another shape constraints beyond monotone, i.e., **increasing concave** and **general concave** functions.
 
