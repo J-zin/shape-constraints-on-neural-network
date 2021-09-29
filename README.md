@@ -16,7 +16,7 @@ Here, we extend this framework into another shape constraints beyond monotone, i
 <div align=center>
 <img src="asset/general_concave.png" width="50%">
 </div>
-For more details, please refers to [this slides](https://j-zin.github.io/files/shape_constraint_NN_slides.pdf). We demonstrate a toy experiment here of the regression task to show its effectiveness on shape constraints. The experimental setting follows that in UMNN and the code logit is based on [this repo](https://github.com/AWehenkel/UMNN).
+For more details, please refers to https://j-zin.github.io/files/shape_constraint_NN_slides.pdf. We demonstrate a toy experiment here of the regression task to show its effectiveness on shape constraints. The experimental setting follows that in UMNN and the code logit is based on https://github.com/AWehenkel/UMNN.
 
 | <img src="asset/monotone.jpg" width="100%">  | <img src="asset/inc_concave.jpg" width="100%">      | <img src="asset/concave.jpg" width="100%">          |
 | -------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
